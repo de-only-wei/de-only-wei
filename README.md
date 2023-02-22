@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zhengwei.dev@gmail.com**
 
-- Check out my Google Developer Profile: **g.dev/zhengwei**
+- Check out my Google Developer Profile: **[g.dev/zhengwei](https://g.dev/zhengwei)**
 
 - ⚡ Fun fact **I can speak English, Mandarin, Chinese, Bahasa Malaysia fluently**
 
