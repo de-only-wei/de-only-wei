@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **App Development and Databases**
+- 🌱 I’m currently learning **App Development and Automation**
 
-- 👯 I’m looking to collaborate on **Anything!!**
+- 👯 I’m looking to collaborate on **Anything Interesting!!**
 
 - 🤝 I’m looking for help with **Machine Learning and AI**
 
-- 💬 Ask me about **Kotlin and Android App Development**
+- 💬 Ask me about **Kotlin, Android App Development, UIPath Automation**
 
 - 📫 How to reach me **zhengwei.dev@gmail.com**
 
