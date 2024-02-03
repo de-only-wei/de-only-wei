@@ -2,7 +2,6 @@
 <h3 align="center">A Computer Science student on a journey</h3>
 
 - 🔭 I’m currently working on **Myself**
-
 - 🌱 I’m currently learning **App Development and Automation**
 
 - 👯 I’m looking to collaborate on **Anything Interesting!!**
